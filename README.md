@@ -1,2 +1,3 @@
 # c-memory-allocator
-dynamic memory allocator with C
+
+Dynamic memory allocator in C. Uses next fit placement policy with free and allocation functions.
