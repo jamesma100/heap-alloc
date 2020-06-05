@@ -1,29 +1,8 @@
 ///////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2019-2020 Jim Skrentny
-// Posting or sharing this file is prohibited, including any changes/additions.
-//
-//////////////////////////////////////////////////////////////////////////////
-// Main File:        heapAlloc.c
-// This File:        heapAlloc.c
-// Other Files:      (name of all other files if any)
-// Semester:         CS 354 Spring 2020
-//
-// Author:           James Ma
-// Email:            yma255@wisc.edu
-// CS Login:         jamesm
-//
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          Identify persons by name, relationship to you, and email.
-//                   Describe in detail the the ideas and help they provided.
-//
-// Online sources:   avoid web searches to solve your problems, but if you do
-//                   search, be sure to include Web URLs and description of
-//                   of any information you find.
-/////////////////////////////////////////////////////////////////////////////////
+// James Ma
+// Spring 2020
+// Main file: heapAlloc.c
+///////////////////////////////////////////////////////////////////////////////
  
 #include <unistd.h>
 #include <sys/types.h>
