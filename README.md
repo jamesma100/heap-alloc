@@ -1,4 +1,4 @@
-# Dynamic Heap Allocator
+# heap-alloc
 
 
 ## Background
